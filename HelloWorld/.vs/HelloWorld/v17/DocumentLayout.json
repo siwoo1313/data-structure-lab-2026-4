@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\data structure 2026-4\\HelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0672F8E2-C794-4216-8AD8-81AD5A0A33D5}|HelloWorld\\HelloWorld.vcxproj|C:\\Users\\USER\\Documents\\data structure 2026-4\\HelloWorld\\HelloWorld\\HelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0672F8E2-C794-4216-8AD8-81AD5A0A33D5}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\HelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloWorld.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\data structure 2026-4\\HelloWorld\\HelloWorld\\HelloWorld.cpp",
+              "RelativeDocumentMoniker": "HelloWorld\\HelloWorld.cpp",
+              "ToolTip": "C:\\Users\\USER\\Documents\\data structure 2026-4\\HelloWorld\\HelloWorld\\HelloWorld.cpp",
+              "RelativeToolTip": "HelloWorld\\HelloWorld.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-06T00:33:01.932Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
