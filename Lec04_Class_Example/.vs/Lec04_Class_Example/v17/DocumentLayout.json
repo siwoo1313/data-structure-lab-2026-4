@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{B4520B5B-D364-429A-AD42-02D42663444D}|Lec04_Class_Example\\Lec04_Class_Example.vcxproj|solutionrelative:Lec04_Class_Example\\Music.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4520B5B-D364-429A-AD42-02D42663444D}|Lec04_Class_Example\\Lec04_Class_Example.vcxproj|C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec04_Class_Example\\Lec04_Class_Example\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B4520B5B-D364-429A-AD42-02D42663444D}|Lec04_Class_Example\\Lec04_Class_Example.vcxproj|solutionrelative:Lec04_Class_Example\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B4520B5B-D364-429A-AD42-02D42663444D}|Lec04_Class_Example\\Lec04_Class_Example.vcxproj|C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec04_Class_Example\\Lec04_Class_Example\\rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B4520B5B-D364-429A-AD42-02D42663444D}|Lec04_Class_Example\\Lec04_Class_Example.vcxproj|solutionrelative:Lec04_Class_Example\\rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4520B5B-D364-429A-AD42-02D42663444D}|Lec04_Class_Example\\Lec04_Class_Example.vcxproj|C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec04_Class_Example\\Lec04_Class_Example\\Pet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B4520B5B-D364-429A-AD42-02D42663444D}|Lec04_Class_Example\\Lec04_Class_Example.vcxproj|solutionrelative:Lec04_Class_Example\\Pet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4520B5B-D364-429A-AD42-02D42663444D}|Lec04_Class_Example\\Lec04_Class_Example.vcxproj|C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec04_Class_Example\\Lec04_Class_Example\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4520B5B-D364-429A-AD42-02D42663444D}|Lec04_Class_Example\\Lec04_Class_Example.vcxproj|solutionrelative:Lec04_Class_Example\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,14 +36,14 @@
               "RelativeDocumentMoniker": "Lec04_Class_Example\\Music.h",
               "ToolTip": "C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec04_Class_Example\\Lec04_Class_Example\\Music.h",
               "RelativeToolTip": "Lec04_Class_Example\\Music.h",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACcAAAA/AAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAD4AAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-04-03T01:03:45.592Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Pet.h",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec04_Class_Example\\Lec04_Class_Example\\Pet.h",
               "RelativeDocumentMoniker": "Lec04_Class_Example\\Pet.h",
@@ -51,11 +51,12 @@
               "RelativeToolTip": "Lec04_Class_Example\\Pet.h",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAACcAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-03T00:38:07.252Z"
+              "WhenOpened": "2026-04-03T00:38:07.252Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Rectangle.h",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec04_Class_Example\\Lec04_Class_Example\\Rectangle.h",
               "RelativeDocumentMoniker": "Lec04_Class_Example\\Rectangle.h",
@@ -63,17 +64,18 @@
               "RelativeToolTip": "Lec04_Class_Example\\Rectangle.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-03T00:20:52.905Z"
+              "WhenOpened": "2026-04-03T00:20:52.905Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec04_Class_Example\\Lec04_Class_Example\\main.cpp",
               "RelativeDocumentMoniker": "Lec04_Class_Example\\main.cpp",
               "ToolTip": "C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec04_Class_Example\\Lec04_Class_Example\\main.cpp",
               "RelativeToolTip": "Lec04_Class_Example\\main.cpp",
-              "ViewState": "AQIAABUAAAAAAAAAAAAawCIAAAAWAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAQwDMAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-04-03T00:20:12.769Z",
               "EditorCaption": ""
