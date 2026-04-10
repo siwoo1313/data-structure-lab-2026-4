@@ -1,14 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec04_Array_Class\\",
+  "WorkspaceRootPath": "C:\\Users\\siwoo\\Desktop\\\uACFC\uC81C\\3\uD559\uB144 1\uD559\uAE30\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\0410\\Lec04_Array_Class\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{705E17DD-5431-4F3D-B9A0-2BA872A5A38A}|Lec04_Array_Class\\Lec04_Array_Class.vcxproj|C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec04_Array_Class\\Lec04_Array_Class\\Complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{705E17DD-5431-4F3D-B9A0-2BA872A5A38A}|Lec04_Array_Class\\Lec04_Array_Class.vcxproj|solutionrelative:Lec04_Array_Class\\Complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EA58B4CB-33E6-4325-A3B6-E70A7EA806C6}|Car_Class\\Car_Class.vcxproj|C:\\Users\\siwoo\\Desktop\\\uACFC\uC81C\\3\uD559\uB144 1\uD559\uAE30\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\0410\\Lec04_Array_Class\\Car_Class\\car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA58B4CB-33E6-4325-A3B6-E70A7EA806C6}|Car_Class\\Car_Class.vcxproj|solutionrelative:Car_Class\\car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{705E17DD-5431-4F3D-B9A0-2BA872A5A38A}|Lec04_Array_Class\\Lec04_Array_Class.vcxproj|C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec04_Array_Class\\Lec04_Array_Class\\ComplexTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{705E17DD-5431-4F3D-B9A0-2BA872A5A38A}|Lec04_Array_Class\\Lec04_Array_Class.vcxproj|solutionrelative:Lec04_Array_Class\\ComplexTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EA58B4CB-33E6-4325-A3B6-E70A7EA806C6}|Car_Class\\Car_Class.vcxproj|C:\\Users\\siwoo\\Desktop\\\uACFC\uC81C\\3\uD559\uB144 1\uD559\uAE30\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\0410\\Lec04_Array_Class\\Car_Class\\sportscar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA58B4CB-33E6-4325-A3B6-E70A7EA806C6}|Car_Class\\Car_Class.vcxproj|solutionrelative:Car_Class\\sportscar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA58B4CB-33E6-4325-A3B6-E70A7EA806C6}|Car_Class\\Car_Class.vcxproj|C:\\Users\\siwoo\\Desktop\\\uACFC\uC81C\\3\uD559\uB144 1\uD559\uAE30\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\0410\\Lec04_Array_Class\\Car_Class\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA58B4CB-33E6-4325-A3B6-E70A7EA806C6}|Car_Class\\Car_Class.vcxproj|solutionrelative:Car_Class\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A010F75E-BDAA-4353-8073-210D1B5679C6}|Polynomial_Class\\Polynomial_Class.vcxproj|C:\\Users\\siwoo\\Desktop\\\uACFC\uC81C\\3\uD559\uB144 1\uD559\uAE30\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\0410\\Lec04_Array_Class\\Polynomial_Class\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A010F75E-BDAA-4353-8073-210D1B5679C6}|Polynomial_Class\\Polynomial_Class.vcxproj|solutionrelative:Polynomial_Class\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CF0AB0-2CC6-4184-924F-13FDF464076F}|Complex_Class\\Complex_Class.vcxproj|C:\\Users\\siwoo\\Desktop\\\uACFC\uC81C\\3\uD559\uB144 1\uD559\uAE30\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\0410\\Lec04_Array_Class\\Complex_Class\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16CF0AB0-2CC6-4184-924F-13FDF464076F}|Complex_Class\\Complex_Class.vcxproj|solutionrelative:Complex_Class\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CF0AB0-2CC6-4184-924F-13FDF464076F}|Complex_Class\\Complex_Class.vcxproj|C:\\Users\\siwoo\\Desktop\\\uACFC\uC81C\\3\uD559\uB144 1\uD559\uAE30\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\0410\\Lec04_Array_Class\\Complex_Class\\Complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16CF0AB0-2CC6-4184-924F-13FDF464076F}|Complex_Class\\Complex_Class.vcxproj|solutionrelative:Complex_Class\\Complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6D218C-620A-4A4E-98F7-29CA627E90FB}|Project1\\Project1.vcxproj|C:\\Users\\siwoo\\Desktop\\\uACFC\uC81C\\3\uD559\uB144 1\uD559\uAE30\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\0410\\Lec04_Array_Class\\Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C6D218C-620A-4A4E-98F7-29CA627E90FB}|Project1\\Project1.vcxproj|solutionrelative:Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A010F75E-BDAA-4353-8073-210D1B5679C6}|Polynomial_Class\\Polynomial_Class.vcxproj|C:\\Users\\siwoo\\Desktop\\\uACFC\uC81C\\3\uD559\uB144 1\uD559\uAE30\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\0410\\Lec04_Array_Class\\Polynomial_Class\\Polynomial.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A010F75E-BDAA-4353-8073-210D1B5679C6}|Polynomial_Class\\Polynomial_Class.vcxproj|solutionrelative:Polynomial_Class\\Polynomial.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6D218C-620A-4A4E-98F7-29CA627E90FB}|Project1\\Project1.vcxproj|C:\\Users\\siwoo\\Desktop\\\uACFC\uC81C\\3\uD559\uB144 1\uD559\uAE30\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\0410\\Lec04_Array_Class\\Project1\\FindMax.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C6D218C-620A-4A4E-98F7-29CA627E90FB}|Project1\\Project1.vcxproj|solutionrelative:Project1\\FindMax.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +46,124 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Complex.h",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec04_Array_Class\\Lec04_Array_Class\\Complex.h",
-              "RelativeDocumentMoniker": "Lec04_Array_Class\\Complex.h",
-              "ToolTip": "C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec04_Array_Class\\Lec04_Array_Class\\Complex.h",
-              "RelativeToolTip": "Lec04_Array_Class\\Complex.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAZAAAA",
+              "DocumentIndex": 8,
+              "Title": "FindMax.h",
+              "DocumentMoniker": "C:\\Users\\siwoo\\Desktop\\\uACFC\uC81C\\3\uD559\uB144 1\uD559\uAE30\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\0410\\Lec04_Array_Class\\Project1\\FindMax.h",
+              "RelativeDocumentMoniker": "Project1\\FindMax.h",
+              "ToolTip": "C:\\Users\\siwoo\\Desktop\\\uACFC\uC81C\\3\uD559\uB144 1\uD559\uAE30\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\0410\\Lec04_Array_Class\\Project1\\FindMax.h",
+              "RelativeToolTip": "Project1\\FindMax.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-27T00:36:45.367Z",
+              "WhenOpened": "2026-04-09T15:43:12.163Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\siwoo\\Desktop\\\uACFC\uC81C\\3\uD559\uB144 1\uD559\uAE30\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\0410\\Lec04_Array_Class\\Car_Class\\main.cpp",
+              "RelativeDocumentMoniker": "Car_Class\\main.cpp",
+              "ToolTip": "C:\\Users\\siwoo\\Desktop\\\uACFC\uC81C\\3\uD559\uB144 1\uD559\uAE30\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\0410\\Lec04_Array_Class\\Car_Class\\main.cpp",
+              "RelativeToolTip": "Car_Class\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-10T04:41:23.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\siwoo\\Desktop\\\uACFC\uC81C\\3\uD559\uB144 1\uD559\uAE30\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\0410\\Lec04_Array_Class\\Polynomial_Class\\main.cpp",
+              "RelativeDocumentMoniker": "Polynomial_Class\\main.cpp",
+              "ToolTip": "C:\\Users\\siwoo\\Desktop\\\uACFC\uC81C\\3\uD559\uB144 1\uD559\uAE30\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\0410\\Lec04_Array_Class\\Polynomial_Class\\main.cpp",
+              "RelativeToolTip": "Polynomial_Class\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-10T08:25:12.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\siwoo\\Desktop\\\uACFC\uC81C\\3\uD559\uB144 1\uD559\uAE30\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\0410\\Lec04_Array_Class\\Complex_Class\\main.cpp",
+              "RelativeDocumentMoniker": "Complex_Class\\main.cpp",
+              "ToolTip": "C:\\Users\\siwoo\\Desktop\\\uACFC\uC81C\\3\uD559\uB144 1\uD559\uAE30\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\0410\\Lec04_Array_Class\\Complex_Class\\main.cpp",
+              "RelativeToolTip": "Complex_Class\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-09T16:18:32.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Complex.h",
+              "DocumentMoniker": "C:\\Users\\siwoo\\Desktop\\\uACFC\uC81C\\3\uD559\uB144 1\uD559\uAE30\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\0410\\Lec04_Array_Class\\Complex_Class\\Complex.h",
+              "RelativeDocumentMoniker": "Complex_Class\\Complex.h",
+              "ToolTip": "C:\\Users\\siwoo\\Desktop\\\uACFC\uC81C\\3\uD559\uB144 1\uD559\uAE30\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\0410\\Lec04_Array_Class\\Complex_Class\\Complex.h",
+              "RelativeToolTip": "Complex_Class\\Complex.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-09T16:18:43.816Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ComplexTest.cpp",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec04_Array_Class\\Lec04_Array_Class\\ComplexTest.cpp",
-              "RelativeDocumentMoniker": "Lec04_Array_Class\\ComplexTest.cpp",
-              "ToolTip": "C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec04_Array_Class\\Lec04_Array_Class\\ComplexTest.cpp",
-              "RelativeToolTip": "Lec04_Array_Class\\ComplexTest.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAGAAAA",
+              "Title": "SportsCar.h",
+              "DocumentMoniker": "C:\\Users\\siwoo\\Desktop\\\uACFC\uC81C\\3\uD559\uB144 1\uD559\uAE30\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\0410\\Lec04_Array_Class\\Car_Class\\SportsCar.h",
+              "RelativeDocumentMoniker": "Car_Class\\SportsCar.h",
+              "ToolTip": "C:\\Users\\siwoo\\Desktop\\\uACFC\uC81C\\3\uD559\uB144 1\uD559\uAE30\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\0410\\Lec04_Array_Class\\Car_Class\\SportsCar.h",
+              "RelativeToolTip": "Car_Class\\SportsCar.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-10T05:06:58.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.h",
+              "DocumentMoniker": "C:\\Users\\siwoo\\Desktop\\\uACFC\uC81C\\3\uD559\uB144 1\uD559\uAE30\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\0410\\Lec04_Array_Class\\Car_Class\\Car.h",
+              "RelativeDocumentMoniker": "Car_Class\\Car.h",
+              "ToolTip": "C:\\Users\\siwoo\\Desktop\\\uACFC\uC81C\\3\uD559\uB144 1\uD559\uAE30\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\0410\\Lec04_Array_Class\\Car_Class\\Car.h",
+              "RelativeToolTip": "Car_Class\\Car.h",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-10T04:41:31.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\siwoo\\Desktop\\\uACFC\uC81C\\3\uD559\uB144 1\uD559\uAE30\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\0410\\Lec04_Array_Class\\Project1\\main.cpp",
+              "RelativeDocumentMoniker": "Project1\\main.cpp",
+              "ToolTip": "C:\\Users\\siwoo\\Desktop\\\uACFC\uC81C\\3\uD559\uB144 1\uD559\uAE30\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\0410\\Lec04_Array_Class\\Project1\\main.cpp",
+              "RelativeToolTip": "Project1\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-27T00:36:31.673Z",
+              "WhenOpened": "2026-04-09T15:41:41.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Polynomial.h",
+              "DocumentMoniker": "C:\\Users\\siwoo\\Desktop\\\uACFC\uC81C\\3\uD559\uB144 1\uD559\uAE30\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\0410\\Lec04_Array_Class\\Polynomial_Class\\Polynomial.h",
+              "RelativeDocumentMoniker": "Polynomial_Class\\Polynomial.h",
+              "ToolTip": "C:\\Users\\siwoo\\Desktop\\\uACFC\uC81C\\3\uD559\uB144 1\uD559\uAE30\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\0410\\Lec04_Array_Class\\Polynomial_Class\\Polynomial.h",
+              "RelativeToolTip": "Polynomial_Class\\Polynomial.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-10T08:25:26.459Z",
               "EditorCaption": ""
             }
           ]
