@@ -12,7 +12,7 @@ int main() {
 	cout << "Is Square ?:" << boolalpha << rect1.isSquare() << endl;
 	printf("=====================================\n");
 	// Pet 클래스 테스트
-	Pet myPet("Kong", 5, "Cat");
+	Pet myPet("Kong", 5, "Cat" );
 	cout << "My pet's name is " << myPet.getName() << endl;
 	// Puppy 클래스 테스트
 	Puppy myPuppy("Lucky", 10, "Dog", "Puddle");

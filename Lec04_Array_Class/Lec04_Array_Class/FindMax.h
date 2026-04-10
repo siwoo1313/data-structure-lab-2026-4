@@ -2,7 +2,7 @@
 #define HEIGHT 8			//배열의 크기를 정의
 #define WIDTH 8
 
-class FindMax{
+class FindMax {
 public:
 	int findMaxPixel(int img[][WIDTH], int h, int w) {	//함수의 형태를 선언
 		int maxVal = img[0][0];				//첫 번째 화소 값을 임시 최대값으로 설정
