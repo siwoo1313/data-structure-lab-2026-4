@@ -13,5 +13,5 @@ int main()
 	b.print("입력된 B = ");					//입력된 복소수 B를 출력하기
 	printf("---A와 B의 합---\n");
 	c.add(a, b);							//A와B의 합을 C에 넣기
-	c.print("A+B=");						//A와B의 합을 출력하기
+	c.print("A+B = ");						//A와B의 합을 출력하기
 }

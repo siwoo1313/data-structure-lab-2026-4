@@ -1,8 +1,8 @@
 ﻿  main.cpp
-C:\Users\siwoo\Desktop\과제\3학년 1학기\데이터구조및프로그래밍실습\0410\Lec04_Array_Class\Car_Class\Car.h(32,27): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'Car *'입니다.
+C:\Users\siwoo\Desktop\과제\3학년 1학기\데이터구조및프로그래밍실습\연습0410\data-structure-lab-2026-4\Lec04_Array_Class\Car_Class\Car.h(32,27): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'Car *'입니다.
   (소스 파일 'main.cpp'을(를) 컴파일하는 중)
   
-C:\Users\siwoo\Desktop\과제\3학년 1학기\데이터구조및프로그래밍실습\0410\Lec04_Array_Class\Car_Class\Car.h(32,27): warning C4313: 'printf': 서식 문자열의 '%x'이(가) Car *' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\siwoo\Desktop\과제\3학년 1학기\데이터구조및프로그래밍실습\연습0410\data-structure-lab-2026-4\Lec04_Array_Class\Car_Class\Car.h(32,27): warning C4313: 'printf': 서식 문자열의 '%x'이(가) Car *' 형식의 인수 1과(와) 충돌합니다.
   (소스 파일 'main.cpp'을(를) 컴파일하는 중)
   
-  Car_Class.vcxproj -> C:\Users\siwoo\Desktop\과제\3학년 1학기\데이터구조및프로그래밍실습\0410\Lec04_Array_Class\x64\Debug\Car_Class.exe
+  Car_Class.vcxproj -> C:\Users\siwoo\Desktop\과제\3학년 1학기\데이터구조및프로그래밍실습\연습0410\data-structure-lab-2026-4\Lec04_Array_Class\x64\Debug\Car_Class.exe
