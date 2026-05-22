@@ -1,25 +1,6 @@
 ﻿  main.cpp
-C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\maze\main.cpp(9,9): warning C4005: 'MAZE_SIZE': 매크로 재정의
+C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\maze\main.cpp(8,9): warning C4005: 'MAZE_SIZE': 매크로 재정의
       C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\maze\Location2D.h(2,9):
       'MAZE_SIZE'의 이전 정의를 참조하십시오.
   
-C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\maze\main.cpp(10,10): error C2760: 구문 오류: 여기서 '='은(는) 예상치 못한 오류였습니다. 예상된 오류는 '식'였습니다
-C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\maze\main.cpp(10,10): error C2440: '초기화 중': 'int'에서 'char []'(으)로 변환할 수 없습니다.
-      C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\maze\main.cpp(10,10):
-      참조 또는 배열에 대한 포인터로의 변환은 있지만 배열 형식으로의 변환은 없습니다.
-  
-C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\maze\main.cpp(10,19): error C2059: 구문 오류: ']'
-C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\maze\main.cpp(10,21): error C2143: 구문 오류: ')'이(가) ';' 앞에 없습니다.
-C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\maze\main.cpp(10,30): error C2059: 구문 오류: ']'
-C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\maze\main.cpp(10,34): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
-C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\maze\main.cpp(10,34): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
-C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\maze\main.cpp(22,29): error C2059: 구문 오류: '='
-C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\maze\main.cpp(22,39): error C2059: 구문 오류: '||'
-C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\maze\main.cpp(22,56): error C2059: 구문 오류: ')'
-C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\maze\main.cpp(23,2): error C2181: if와 짝을 이루지 않는 잘못된 else문입니다.
-C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\maze\main.cpp(23,22): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
-C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\maze\main.cpp(23,42): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
-C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\maze\main.cpp(26,6): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
-C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\maze\main.cpp(33,3): error C2146: 구문 오류: ';'이(가) 'locStack' 식별자 앞에 없습니다.
-C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\maze\main.cpp(37,15): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
-C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\maze\main.cpp(42,12): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+  maze.vcxproj -> C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\x64\Debug\maze.exe

@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{5FBA0DA0-A255-436A-9FD8-F10533E1AD28}|maze\\maze.vcxproj|C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec10_Graph\\maze\\Location2D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5FBA0DA0-A255-436A-9FD8-F10533E1AD28}|maze\\maze.vcxproj|solutionrelative:maze\\Location2D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50001240-49F1-4711-8C6C-B6E624446714}|STL Deuqe\\STL Deuqe.vcxproj|C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec10_Graph\\maze\\deque.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50001240-49F1-4711-8C6C-B6E624446714}|STL Deuqe\\STL Deuqe.vcxproj|solutionrelative:maze\\deque.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,10 +32,9 @@
               "RelativeDocumentMoniker": "maze\\Location2D.h",
               "ToolTip": "C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec10_Graph\\maze\\Location2D.h",
               "RelativeToolTip": "maze\\Location2D.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-19T07:36:18.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-22T00:10:16.586Z"
             },
             {
               "$type": "Document",
@@ -41,10 +44,22 @@
               "RelativeDocumentMoniker": "maze\\main.cpp",
               "ToolTip": "C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec10_Graph\\maze\\main.cpp",
               "RelativeToolTip": "maze\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-19T07:36:03.835Z",
+              "WhenOpened": "2026-05-21T06:10:59.624Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "deque.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec10_Graph\\maze\\deque.cpp",
+              "RelativeDocumentMoniker": "maze\\deque.cpp",
+              "ToolTip": "C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec10_Graph\\maze\\deque.cpp",
+              "RelativeToolTip": "maze\\deque.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-21T05:58:31.186Z"
             }
           ]
         }

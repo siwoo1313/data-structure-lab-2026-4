@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lec10_Graph", "Lec10_Graph\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "maze", "maze\maze.vcxproj", "{5FBA0DA0-A255-436A-9FD8-F10533E1AD28}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "STL Deque", "STL Deuqe\STL Deuqe.vcxproj", "{50001240-49F1-4711-8C6C-B6E624446714}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{5FBA0DA0-A255-436A-9FD8-F10533E1AD28}.Release|x64.Build.0 = Release|x64
 		{5FBA0DA0-A255-436A-9FD8-F10533E1AD28}.Release|x86.ActiveCfg = Release|Win32
 		{5FBA0DA0-A255-436A-9FD8-F10533E1AD28}.Release|x86.Build.0 = Release|Win32
+		{50001240-49F1-4711-8C6C-B6E624446714}.Debug|x64.ActiveCfg = Debug|x64
+		{50001240-49F1-4711-8C6C-B6E624446714}.Debug|x64.Build.0 = Debug|x64
+		{50001240-49F1-4711-8C6C-B6E624446714}.Debug|x86.ActiveCfg = Debug|Win32
+		{50001240-49F1-4711-8C6C-B6E624446714}.Debug|x86.Build.0 = Debug|Win32
+		{50001240-49F1-4711-8C6C-B6E624446714}.Release|x64.ActiveCfg = Release|x64
+		{50001240-49F1-4711-8C6C-B6E624446714}.Release|x64.Build.0 = Release|x64
+		{50001240-49F1-4711-8C6C-B6E624446714}.Release|x86.ActiveCfg = Release|Win32
+		{50001240-49F1-4711-8C6C-B6E624446714}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

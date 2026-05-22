@@ -1,0 +1,7 @@
+﻿  deque.cpp
+C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\maze\deque.cpp(4,9): warning C4005: 'MAZE_SIZE': 매크로 재정의
+      C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\maze\Location2D.h(2,9):
+      'MAZE_SIZE'의 이전 정의를 참조하십시오.
+  
+C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\maze\deque.cpp(22,6): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  STL Deuqe.vcxproj -> C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\x64\Debug\STL Deque.exe
