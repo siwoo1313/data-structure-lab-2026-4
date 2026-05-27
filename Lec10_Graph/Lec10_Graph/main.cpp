@@ -28,4 +28,10 @@ void main()
 	g.DFS(0);
 	printf("\n");
 
+	WGraph wg;
+	wg.load("../graph.txt");
+	wg.display();
+
+	return 0;
+
 }
